@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+	<DraftDirections.SettingCategory>Draft Directions</DraftDirections.SettingCategory>
+	<DraftDirections.Settings.ShowButtons>Enable draft direction feature</DraftDirections.Settings.ShowButtons>
+	<DraftDirections.PlaySettingToggle>Display Draft Directions buttons</DraftDirections.PlaySettingToggle>
+
+	<DraftDirections.ToggleHeadRotationLabel>Head Rotation</DraftDirections.ToggleHeadRotationLabel>
+	<DraftDirections.ToggleHeadRotationDesc>Enable/disable head rotation</DraftDirections.ToggleHeadRotationDesc>
+	<DraftDirections.ChangeHeadDirectionLabel>Head direction (current: {0})</DraftDirections.ChangeHeadDirectionLabel>
+	<DraftDirections.ChangeHeadDirectionDesc>Set head direction</DraftDirections.ChangeHeadDirectionDesc>
+
+	<DraftDirections.ToggleDraftRotationLabel>Draft Rotation</DraftDirections.ToggleDraftRotationLabel>
+	<DraftDirections.ToggleDraftRotationDesc>Enable/disable draft rotation</DraftDirections.ToggleDraftRotationDesc>
+	<DraftDirections.ChangeDraftDirectionLabel>Draft direction (current: {0})</DraftDirections.ChangeDraftDirectionLabel>
+	<DraftDirections.ChangeDraftDirectionDesc>Set draft direction</DraftDirections.ChangeDraftDirectionDesc>
+
+	<!-- Tales UI Framework Integration -->
+	<DraftDirections.UI.BodyDirectionsTitle>Body Directions</DraftDirections.UI.BodyDirectionsTitle>
+	<DraftDirections.UI.ToggleBodyDirectionDesc>Enable/disable Body Directions</DraftDirections.UI.ToggleBodyDirectionDesc>
+	<DraftDirections.UI.EnableBodyDirectionsFirst>Disabled: Enable Body Directions toggle on the left first.</DraftDirections.UI.EnableBodyDirectionsFirst>
+
+	<DraftDirections.UI.HeadDirectionsTitle>Head Directions</DraftDirections.UI.HeadDirectionsTitle>
+	<DraftDirections.UI.ToggleHeadDirectionDesc>Enable/disable Head Directions</DraftDirections.UI.ToggleHeadDirectionDesc>
+	<DraftDirections.UI.EnableHeadDirectionsFirst>Disabled: Enable Head Directions toggle on the left first.</DraftDirections.UI.EnableHeadDirectionsFirst>
+
+</LanguageData>
