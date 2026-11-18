@@ -7,7 +7,7 @@ If paired with Draft Anything 2.0 you can change the direction of any pawn in th
 Draft Anything 2.0 by Talesoftherim
 
 
-# **#FAQ:**
+# **FAQ:**
 Safe to add mid-game?
 Yes
 
