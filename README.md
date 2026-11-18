@@ -31,5 +31,7 @@ Thumbnail was made by myself.
 # **Change Log:**
 
 November 17, 2026: Added TalesUIFramework and made draft directions a dependency. Cleans up the UI on the pawn. 
+
 November 9, 2026: Integrated directions with Draft Anything 2.0 Mod. If using draft anything, you can change the direction of any pawn in the game.
+
 November 1, 2026: Updated to 1.7 
