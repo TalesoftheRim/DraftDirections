@@ -31,4 +31,6 @@ Airo (Coder/XML) Putting everything together and final touches
 Thumbnail was made by myself.
 
 
-Change Log: November 17: Added TalesUIFramework and made draft directions a dependency. Cleans up the UI on the pawn. 
+Change Log: 
+
+November 17, 2026: Added TalesUIFramework and made draft directions a dependency. Cleans up the UI on the pawn. 
